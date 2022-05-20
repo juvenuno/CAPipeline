@@ -1,4 +1,4 @@
-package com.helloworld;
+:Wpackage com.helloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
