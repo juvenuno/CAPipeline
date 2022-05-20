@@ -7,6 +7,6 @@ public class HelloWorldController
 @RequestMapping("/")
 public String hello() 
 {
-return "<h1> This piece on info was added via PipelineCA. To prove it's working - NUNO CORREIA </h1>" ;
+return "<h1> This a new piece on info was added via PipelineCA. To prove it's working - NUNO CORREIA - Test </h1>" ;
 }
 }
