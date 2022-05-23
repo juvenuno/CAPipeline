@@ -7,6 +7,6 @@ public class HelloWorldController
 @RequestMapping("/")
 public String hello() 
 {
-return "<h1>Nuno change Locally and was automatically deploy to AWS!</h1>" ;
+return "<h1>Nuno change Locally and was automatically deploy to AWS! now gary added this!</h1>" ;
 }
 }
