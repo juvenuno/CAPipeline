@@ -2,9 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\.github",
-    "\\.github\\workflows",
     "\\aws",
-    "\\aws\\scripts"
+    "\\aws\\scripts",
+    "\\spring-boot-hello-world-example\\src",
+    "\\spring-boot-hello-world-example\\src\\main",
+    "\\spring-boot-hello-world-example\\src\\main\\java",
+    "\\spring-boot-hello-world-example\\src\\main\\java\\com",
+    "\\spring-boot-hello-world-example\\src\\main\\java\\com\\helloworld",
+    "\\spring-boot-hello-world-example\\src\\main\\java\\com\\helloworld\\controller"
   ],
   "SelectedNode": "\\.github\\workflows\\deploy.yml",
   "PreviewInSolutionExplorer": false
